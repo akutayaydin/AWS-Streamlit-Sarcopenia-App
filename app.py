@@ -19,7 +19,7 @@ import os
 current_directory = os.getcwd()
 
 # Specify the file name
-file_name = 'Sarcopenia_Model_SF.pkl'
+file_name = 'sarcopenia_model_sf.pkl'
 
 # Create the full file path
 full_file_path = os.path.join(current_directory, file_name)
